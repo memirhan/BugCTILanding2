@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Rocket, Mail, Shield } from 'lucide-react';
-import logo from '../assets/bugcti-logo.png';
+import logo from "./assets/bugcti-logo.png";
 
 const App = () => {
     // Countdown to July 1, 2026
